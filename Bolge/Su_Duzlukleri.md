@@ -3,7 +3,7 @@
 # Su Düzlükleri
 
 
-[Yelbüken](/tr/wiki/Yelb%C3%BCken)\'in güneyde kalan bölgeye verilen
+Yelbüken'in güneyde kalan bölgeye verilen
 genel isimdir. Sahil bölgesi hariç genellikle düz ovalardan oluşur.
 
 <figure>
@@ -11,20 +11,20 @@ genel isimdir. Sahil bölgesi hariç genellikle düz ovalardan oluşur.
 <figcaption><a href="/tr/wiki/Dosya:Harita-su.jpg"></a></figcaption>
 </figure>
 
-Kuzeyinde [Alacaorman](/tr/wiki/Alacaorman), güneyinde ise [Derin Sular
-Denizi](/tr/wiki/Derin_Sular_Denizi) bulunmaktadır.
+Kuzeyinde Alacaorman, güneyinde ise Derin Sular
+Denizi bulunmaktadır.
 
 Yelbüken dışındaki diğer diyarlara ana iletişim deniz yoluyla
-olmaktadır. Bu da Su Düzlükleri\'nde bulunan limanlar üzerinden
+olmaktadır. Bu da Su Düzlükleri'nde bulunan limanlar üzerinden
 gerçekleşmektedir. Bu da bölgeye ticari olarak büyük kazandırır.
 Limanlar ve verimli topraklar dışında bölgeyi diğerlerinden ayıran
-özellik, [ejderhalar](/tr/wiki/Ejderha) ile olan çatışmalarıdır. Tüm
+özellik, ejderhalar ile olan çatışmalarıdır. Tüm
 Yelbüken bu ulu canlılarla zor bir ilişki içerisinde olsa da hiçbir
 toprağın halkı Su Düzlükleri\'nde bulunanlar kadar ejderhalar altında
 zorluk yaşamamıştır. Ejderhalar diğer bölgelere göre yaşayan toplumlar
 üzerinde daha aktif ve tehlikelidir.
 
-[Virihan Krallığı](/tr/wiki/Virihan_Krall%C4%B1%C4%9F%C4%B1) bundan 140
+Virihan Krallığı bundan 140
 yıl kadar önce hemen hemen tüm bölgeyi tek krallık altında toplamayı
 başarmıştır. Ancak bir ejderha ailesi tarafından başkentin ve
 yöneticilerinin tamamen yok edilmesiyle tekrar bölünmüştür. Bu dönemden
