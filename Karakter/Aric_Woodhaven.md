@@ -1,15 +1,54 @@
-Aric Woodhaven, Su Düzlükleri'nin ücra bir köşesinde, Kan Martısı Koyu'na yakın küçük bir köyde dünyaya geldi. Doğduğu 279 yılı, bölge için nispeten sakin bir dönemdi, ancak geçmiş savaşların ve çatışmaların izleri hala tazeydi.
-Aric'in çocukluğu, köyün etrafındaki geniş ormanlarda ve verimli tarlalarda geçti. Babası yetenekli bir avcı ve yay ustasıydı, annesi ise şifalı bitkileri toplayan ve hayvanları iyileştiren bir şifacıydı. Küçük yaştan itibaren Aric, hem babasının hem de annesinin becerilerini öğrenmek istedi.
-Ancak Aric yedi yaşındayken, trajik bir olay ailesinin hayatını değiştirdi. Bir gece, köyün yakınlarındaki ormanda büyük bir yangın çıktı. Rüzgarın etkisiyle hızla yayılan alevler, köyün bir kısmını ve Aric'in ailesinin evini yuttu. Aric, komşuları tarafından son anda kurtarıldı, ancak anne ve babası alevlerin arasında can verdi.
-Bu acı olay, Aric'in hayatında derin izler bıraktı. Köyün yaşlıları tarafından sahiplenilen Aric, zorluklarla mücadele ederek büyüdü. Erken yaşta hayatta kalma içgüdüsü gelişti ve doğayla daha da yakın bir bağ kurdu. Belki de ailesinin yokluğunu telafi etmek için, hayvanlarla özel bir ilişki geliştirdi. Onları anlama ve eğitme konusunda olağanüstü bir yetenek sergiledi.
-Ergenlik yıllarında, köyün yaşlı yay ustası Aric'i kanatları altına aldı. Babasının yarım bıraktığı eğitimi tamamladı ve Aric'e yay yapımının inceliklerini öğretti. Bu sanat, zamanla Aric'in geçim kaynağı haline geldi.
-Aric'in hayatında dönüm noktası yaratan bir diğer etken, köye nadiren uğrayan gezgin hikaye anlatıcıları oldu. Bu anlatıcıların sözleri, Aric'in hayal gücünü ateşledi ve içinde macera arzusu uyandırdı. Özellikle Monos Efsanesi'ni dinlediğinde, kendini bu efsanevi kahramanla özdeşleştirdi. Tıpkı Monos gibi, o da ailesini kaybetmişti ve halkı için bir şeyler yapmak istiyordu.
-Ancak köydeki sorumlulukları ve geçim derdi, bu hayalleri gerçekleştirmesine uzun süre izin vermedi. Yine de, fırsat buldukça ormanda avlanmayı, tuzaklar kurmayı ve doğada hayatta kalmayı öğrendi. Bu beceriler, onu köyün en değerli üyelerinden biri haline getirdi.
-Şimdi, 25 yaşında, Aric içindeki macera arzusunu daha fazla bastıramıyor. Yıllarca hayal ettiği maceracı yaşamı sürmek için sonunda köyünden ayrılmaya karar verdi. Bu kararın arkasında sadece macera arzusu değil, aynı zamanda ailesinin anısını onurlandırma ve onların yarım kalan hayallerini gerçekleştirme isteği de var.
-Aric'in önceliği, Yelbüken'i keşfetmek ve insanlara yardım etmek. Monos Efsanesi'nden ilham alarak, belki de o da bir gün insanları felaketlerden kurtaracak bir kahraman olabileceğine inanıyor. Aynı zamanda, doğayla ve hayvanlarla olan bağını güçlendirmek, bu konudaki yeteneklerini daha da geliştirmek istiyor.
-Günbatan Kasabası'na gelişinin nedeni, burada dönen olağandışı olayları duymuş olması. Kıyamet alametleri olduğu söylenen bu olaylar, Aric'in içindeki kahramanlık ateşini tutuşturdu. Belki de bu, Monos'un bahsettiği felaketlerdi ve Aric, bunları engellemek için bir şeyler yapabilirdi.
-Aric'in en güçlü yanları, doğa ve hayvanlarla olan yakın bağı, yay yapımındaki ustalığı, ve zorlu koşullarda hayatta kalma becerisi. Ayrıca, genç yaşta yaşadığı travmaya rağmen (veya belki de bunun sayesinde) oldukça dayanıklı ve uyumlu bir karaktere sahip.
-Zayıf yanları ise, şehir hayatına ve karmaşık sosyal durumlara yabancı olması. Köyünde herkes birbirini tanırken, şimdi tamamen yabancı bir ortamda. Ayrıca, zaman zaman aşırı idealist olabiliyor ve bu da onu tehlikeli durumlara sokabiliyor.
-Aric'in en büyük korkusu, ailesini kaybettiği gibi, yeni bağlar kurduğu insanları da kaybetmek. Bu yüzden bazen duygusal bağlar kurmakta zorlanabiliyor. Ancak bir kez güvenini kazandınız mı, Aric sizin için her şeyi yapmaya hazırdır.
-Motivasyonları arasında, ailesinin anısını yaşatmak, Monos gibi bir kahraman olmak, Yelbüken'i keşfetmek ve insanlara yardım etmek var. Ayrıca, aile mesleklerine devam etmek bu konudaki yeteneklerini geliştirmek istiyor. Bu yetenekleri, hem kendisine hem de yoldaşlarına yardımcı olabileceğine inanıyor.
-Sonuç olarak Aric, zorlu bir geçmişe sahip, ancak geleceğe umutla bakan genç bir maceracı. Doğanın içinde büyümüş olması ona benzersiz yetenekler kazandırmış, ancak aynı zamanda modern dünyaya adapte olma konusunda zorluklar yaşamasına neden olmuş. Yine de, içindeki kahramanlık ateşi ve yardım etme isteği, onu Yelbüken'in karşılaştığı tehlikelere karşı mücadele etmeye itiyor. Aric'in hikayesi, kendi Monos Efsanesi'ni yaratma yolculuğu olacak.
+# Aric Woodhaven
+
+## Doğum ve Erken Çocukluk
+
+- **Doğum Yılı**: 279
+- **Doğum Yeri**: Kan Martısı Koyu'na yakın küçük bir köy, Su Düzlükleri
+- **Aile**: 
+  - Baba: Yetenekli avcı ve yay ustası
+  - Anne: Şifalı bitki toplayıcısı ve hayvan şifacısı
+
+## Trajik Olay
+
+- 7 yaşında ailesini bir orman yangınında kaybetti
+- Köy yaşlıları tarafından büyütüldü
+
+## Gençlik ve Beceriler
+
+- Doğa ile güçlü bağ kurdu
+- Hayvanlarla özel ilişki geliştirdi
+- Yay yapımı ve okçuluk konusunda ustalaştı
+- Avlanma, tuzak kurma ve hayatta kalma becerileri kazandı
+
+## İlham Kaynakları
+
+- Gezgin hikaye anlatıcıları
+- Monos Efsanesi
+
+## Güncel Durum
+
+- Yaş: 25
+- Günbatan Kasabası'na geldi
+- Amacı: Yelbüken'i keşfetmek ve insanlara yardım etmek
+
+## Güçlü Yanları
+
+- Doğa ve hayvanlarla yakın bağ
+- Yay yapımı ustalığı
+- Zorlu koşullarda hayatta kalma becerisi
+- Dayanıklı ve uyumlu karakter
+
+## Zayıf Yanları
+
+- Şehir hayatına ve karmaşık sosyal durumlara yabancı
+- Zaman zaman aşırı idealist
+
+## Korkuları ve Motivasyonları
+
+- En büyük korku: Yeni bağlar kurduğu insanları kaybetmek
+- Motivasyonlar:
+  - Ailesinin anısını yaşatmak
+  - Monos gibi bir kahraman olmak
+  - Yelbüken'i keşfetmek
+  - İnsanlara yardım etmek
+  - Aile mesleklerini sürdürmek ve geliştirmek
