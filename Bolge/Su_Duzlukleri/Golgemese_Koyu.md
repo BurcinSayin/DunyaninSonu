@@ -21,6 +21,18 @@
 ## Kültür
 - Eyter gelenekleri ve inançları günlük yaşamın merkezinde
 - Monos Efsanesi ve Yedi Hikaye sıkça anlatılır
-- Doğayla uyum içinde yaşama felsefesi
 - Yay yapımı ve okçuluk becerileri önemli
-- Mevsim değişimlerinde geleneksel ritüeller düzenlenir
+
+## Yerel Gelenekler ve İnançlar
+
+- Meşe Ağacı Kültü: Köy meydanındaki yaşlı meşe ağacı "şanslı" sayılır. Her mevsim değişiminde ağacın etrafında ritüeller düzenlenir ve dilekler dilenir.
+
+- Koruyucu Ruhlar: Her evin bir koruyucu ruhu olduğuna ve bu ruhların geceleri evleri koruduğuna inanılır. Evlerin girişine ruhlar için küçük sunaklar yerleştirilir.
+
+- Korgöz Efsanesi: Yakındaki Korgöz Kalıntıları'nın eski bir kahramanın mezarı olduğuna ve orayı ziyaret edenlere şans getirdiğine inanılır.
+
+- Yay Kutsama: Yeni yapılan yaylar, ilk kullanımdan önce köy meydanındaki meşe ağacına asılarak bir gece bekletilir. Bu ritüelin yaya güç ve isabet kazandırdığına inanılır.
+
+- Rüya Yorumlama: Köyde rüyalara büyük önem verilir. Önemli kararlar alınmadan önce yaşlıların rüyalarına danışılır.
+
+- Şifalı Ot Toplama: Belirli günlerde toplanan otların daha güçlü şifa etkisi olduğuna inanılır. Bu günlerde köylüler gruplar halinde ot toplamaya çıkar.
