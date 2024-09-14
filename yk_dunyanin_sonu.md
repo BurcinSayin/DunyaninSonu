@@ -23,11 +23,3 @@ Tüm bunlar gazetecilerin, sözümona bilginlerin ve gezgin soytarıların abart
 Son tahlilde bence bunların hepsi çocuk masalı. Ahlak satmak isteyen tüccarların ibret hikayelerini, tesadüfi olaylarla birleştirmeleri. Sonunda kan yağmurları ile ıslanıp, çift başlı doğan çocuklar görmeyeceğiz ya da 7 hikayeden alıntılayacak olursam "hayal edilemeyecek bir ateş" tüm Yelbüken'i kaplamayacak. Ama herkes bu duruma kendini kaptırmış durumda. Günbatan'a yaklaştıkça, coğrafyanın savaş ve yıkımla olan yorgunluğuna insan kendisini kaptırdıkça, bu kıyamet masalları tuhaf bir duygu durumu yaratıyor insanda. Bir çeşit anksiyete. Hadi bitse de gitsek dedirten bir iş görüşmesi gibi. Saçma sapan fikirler insanın kafasını karıştırıyor. Sormadan edemiyorsun kendine...
 
 Ya dünyanın sonu gerçekten geliyorsa?
-
----
-
-*"YK: Dünyanın Sonu" eylül ayında başlıyor.*
-
-*Wiki sayfası çok yakında!*
-
-Etiketler: FRP, Kule Sakinleri, Rol Yapma Oyunları, Yaşayan Kule
