@@ -1,18 +1,10 @@
      
 
-[](/tr/wiki/Kutsal_Rota_Karde%C5%9Fli%C4%9Fi?veaction=edit)
 
 # Kutsal Rota Kardeşliği
 
 [](#articleComments)
 
-[Değiştir](/tr/wiki/Kutsal_Rota_Karde%C5%9Fli%C4%9Fi?veaction=edit)
-
--   [Kaynağı
-    değiştir](/tr/wiki/Kutsal_Rota_Karde%C5%9Fli%C4%9Fi?action=edit)
--   [Geçmiş](/tr/wiki/Kutsal_Rota_Karde%C5%9Fli%C4%9Fi?action=history)
--   [Talk
-    (0)](/tr/wiki/Tart%C4%B1%C5%9Fma:Kutsal_Rota_Karde%C5%9Fli%C4%9Fi?action=edit&redlink=1)
 
 ## İçindekiler
 

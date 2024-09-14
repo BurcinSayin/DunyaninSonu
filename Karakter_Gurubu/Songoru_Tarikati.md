@@ -1,18 +1,10 @@
      
 
-[](/tr/wiki/Song%C3%B6r%C3%BC_Tarikat%C4%B1?veaction=edit)
 
 # Songörü Tarikatı
 
 [](#articleComments)
 
-[Değiştir](/tr/wiki/Song%C3%B6r%C3%BC_Tarikat%C4%B1?veaction=edit)
-
--   [Kaynağı
-    değiştir](/tr/wiki/Song%C3%B6r%C3%BC_Tarikat%C4%B1?action=edit)
--   [Geçmiş](/tr/wiki/Song%C3%B6r%C3%BC_Tarikat%C4%B1?action=history)
--   [Talk
-    (0)](/tr/wiki/Tart%C4%B1%C5%9Fma:Song%C3%B6r%C3%BC_Tarikat%C4%B1?action=edit&redlink=1)
 
 <figure>
 

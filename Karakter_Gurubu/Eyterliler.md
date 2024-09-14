@@ -1,6 +1,5 @@
      
 
-[](/tr/wiki/Eyterliler?veaction=edit)
 
 in: [YK: Dünyanın Sonu](/tr/wiki/Kategori:YK:_D%C3%BCnyan%C4%B1n_Sonu)
 
@@ -8,12 +7,6 @@ in: [YK: Dünyanın Sonu](/tr/wiki/Kategori:YK:_D%C3%BCnyan%C4%B1n_Sonu)
 
 [](#articleComments)
 
-[Değiştir](/tr/wiki/Eyterliler?veaction=edit)
-
--   [Kaynağı değiştir](/tr/wiki/Eyterliler?action=edit)
--   [Geçmiş](/tr/wiki/Eyterliler?action=history)
--   [Talk
-    (0)](/tr/wiki/Tart%C4%B1%C5%9Fma:Eyterliler?action=edit&redlink=1)
 
 ## İçindekiler
 

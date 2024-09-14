@@ -1,18 +1,10 @@
      
 
-[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit)
 
 # Yeni Öksüzler (İkinci Tsanor) Savaşı
 
 [](#articleComments)
 
-[Değiştir](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit)
-
--   [Kaynağı
-    değiştir](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?action=edit)
--   [Geçmiş](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?action=history)
--   [Talk
-    (0)](/tr/wiki/Tart%C4%B1%C5%9Fma:Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?action=edit&redlink=1)
 
 ## İçindekiler
 

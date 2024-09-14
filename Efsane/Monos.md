@@ -1,17 +1,10 @@
      
 
-[](/tr/wiki/Monos_Efsanesi?veaction=edit)
 
 # Monos Efsanesi
 
 [](#articleComments)
 
-[Değiştir](/tr/wiki/Monos_Efsanesi?veaction=edit)
-
--   [Kaynağı değiştir](/tr/wiki/Monos_Efsanesi?action=edit)
--   [Geçmiş](/tr/wiki/Monos_Efsanesi?action=history)
--   [Talk
-    (0)](/tr/wiki/Tart%C4%B1%C5%9Fma:Monos_Efsanesi?action=edit&redlink=1)
 
 ## Giriş\[[](/tr/wiki/Monos_Efsanesi?veaction=edit&section=1)\]
 

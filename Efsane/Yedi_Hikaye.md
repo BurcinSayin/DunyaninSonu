@@ -1,17 +1,10 @@
      
 
-[](/tr/wiki/Yedi_Hikaye?veaction=edit)
 
 # Yedi Hikaye
 
 [](#articleComments)
 
-[Değiştir](/tr/wiki/Yedi_Hikaye?veaction=edit)
-
--   [Kaynağı değiştir](/tr/wiki/Yedi_Hikaye?action=edit)
--   [Geçmiş](/tr/wiki/Yedi_Hikaye?action=history)
--   [Talk
-    (0)](/tr/wiki/Tart%C4%B1%C5%9Fma:Yedi_Hikaye?action=edit&redlink=1)
 
 Aşağıda Monos Efsanesi\'nde anlatılan 7 hikaye bulunmaktadır.
 

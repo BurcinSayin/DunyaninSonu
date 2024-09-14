@@ -1,17 +1,10 @@
      
 
-[](/tr/wiki/Dromnej_Diplomatik_Misyonu?veaction=edit)
 
 # Dromnej Diplomatik Misyonu
 
 [](#articleComments)
 
-[Değiştir](/tr/wiki/Dromnej_Diplomatik_Misyonu?veaction=edit)
-
--   [Kaynağı değiştir](/tr/wiki/Dromnej_Diplomatik_Misyonu?action=edit)
--   [Geçmiş](/tr/wiki/Dromnej_Diplomatik_Misyonu?action=history)
--   [Talk
-    (0)](/tr/wiki/Tart%C4%B1%C5%9Fma:Dromnej_Diplomatik_Misyonu?action=edit&redlink=1)
 
 ## İçindekiler
 

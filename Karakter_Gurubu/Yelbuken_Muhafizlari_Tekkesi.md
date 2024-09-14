@@ -1,18 +1,10 @@
      
 
-[](/tr/wiki/Yelb%C3%BCken_Muhaf%C4%B1zlar%C4%B1_Tekkesi?veaction=edit)
 
 # Yelbüken Muhafızları Tekkesi
 
 [](#articleComments)
 
-[Değiştir](/tr/wiki/Yelb%C3%BCken_Muhaf%C4%B1zlar%C4%B1_Tekkesi?veaction=edit)
-
--   [Kaynağı
-    değiştir](/tr/wiki/Yelb%C3%BCken_Muhaf%C4%B1zlar%C4%B1_Tekkesi?action=edit)
--   [Geçmiş](/tr/wiki/Yelb%C3%BCken_Muhaf%C4%B1zlar%C4%B1_Tekkesi?action=history)
--   [Talk
-    (0)](/tr/wiki/Tart%C4%B1%C5%9Fma:Yelb%C3%BCken_Muhaf%C4%B1zlar%C4%B1_Tekkesi?action=edit&redlink=1)
 
 ## İçindekiler
 

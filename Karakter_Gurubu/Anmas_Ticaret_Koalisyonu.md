@@ -1,17 +1,10 @@
      
 
-[](/tr/wiki/Anmas_Ticaret_Koalisyonu?veaction=edit)
 
 # Anmas Ticaret Koalisyonu
 
 [](#articleComments)
 
-[Değiştir](/tr/wiki/Anmas_Ticaret_Koalisyonu?veaction=edit)
-
--   [Kaynağı değiştir](/tr/wiki/Anmas_Ticaret_Koalisyonu?action=edit)
--   [Geçmiş](/tr/wiki/Anmas_Ticaret_Koalisyonu?action=history)
--   [Talk
-    (0)](/tr/wiki/Tart%C4%B1%C5%9Fma:Anmas_Ticaret_Koalisyonu?action=edit&redlink=1)
 
 ## İçindekiler
 
