@@ -3,14 +3,14 @@
 ## Doğum ve Erken Çocukluk
 
 - **Doğum Yılı**: 279
-- **Doğum Yeri**: Kan Martısı Koyu'na yakın küçük bir köy, Su Düzlükleri
+- **Doğum Yeri**: Gölgemeşe Köyü, Su Düzlükleri
 - **Aile**: 
   - Baba: Yetenekli avcı ve yay ustası
   - Anne: Şifalı bitki toplayıcısı ve hayvan şifacısı
 
 ## Trajik Olay
 
-- 7 yaşında ailesini bir orman yangınında kaybetti
+- 7 yaşında ailesini evlerinde çıkan bir baca yangınında kaybetti
 - Köy yaşlıları tarafından büyütüldü
 
 ## Gençlik ve Beceriler
