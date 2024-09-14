@@ -25,7 +25,7 @@
 
 ## Yerel Gelenekler ve İnançlar
 
-- Meşe Ağacı Kültü: Köy meydanındaki yaşlı meşe ağacı "şanslı" sayılır. Her mevsim değişiminde ağacın etrafında ritüeller düzenlenir ve dilekler dilenir.
+- Meşe Ağacı: Köy meydanındaki yaşlı meşe ağacı "şanslı" sayılır. Her mevsim değişiminde ağacın etrafında kutlamalar düzenlenir ve dilekler dilenir.
 
 - Koruyucu Ruhlar: Her evin bir koruyucu ruhu olduğuna ve bu ruhların geceleri evleri koruduğuna inanılır. Evlerin girişine ruhlar için küçük sunaklar yerleştirilir.
 
