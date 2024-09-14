@@ -58,7 +58,7 @@ ilişkiler en kibar tabiri ile gergin bir şekilde devam etse de, 5. Ay ve
 Deniz Gülü Katliamı ile ilgili detaylı bilgiye geçmeden önce savaşın
 diğer nedenlerine değinmek doğru olacaktır.
 
-### **Savaşın Nedenleri**\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=2)\]
+### Savaşın Nedenleri
 
 Dromnej, Tsanor Limanı'nı almış olsa bile, gerek korsanlar gerekse
 Anmas'ın deniz yolları üzerindeki başarılı ve kalıcılaşmış ekonomik
@@ -106,7 +106,7 @@ noktasına gelinmemiştir.
 
 Bu durum 302 yılında Deniz Gülü Katliamı olayı ile değişmiştir.
 
-### **Savaşın Çıkması - Deniz Gülü Katliamı**\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=3)\]
+### Savaşın Çıkması - Deniz Gülü Katliamı
 
 302 yılının 5. ayının 3.günü Dromnej gemilerinden bir tanesi olan 20
 mürettebata sahip küçük bir Sloop (Yelkenli) gemisi "Deniz Gülü"
@@ -116,7 +116,7 @@ zorunda kalmıştır. Bu durum üzerine ise yakınlardaki bir Eyter
 kasabasına haber göndermişlerdir. Bu noktadan sonra ne olduğu iki taraf
 açısından farklı anlatılmaktadır.
 
-#### **Anmas Krallığı'na göre;**\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=4)\]
+#### Anmas Krallığı'na göre;
 
 Geminin geldiği öğrenildikten sonra hava koşulları nedeniyle 40 kişilik
 ve 5 at arabasından oluşan bir grup zar zor da olsa oluşturulmuş ve
@@ -131,7 +131,7 @@ sonrası ölmüştür. Suçlular gemiye dönüp fırtına olmasına rağmen deni
 açılarak kaçmaya çalışmıştır. Bu Anmas'a göre kurtarma ekibinin
 dolandırıcılar ve katillerin kullandığı gemiyi son görüşüdür.
 
-#### **Dromnej Krallığı'na Göre ise;**\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=5)\]
+#### Dromnej Krallığı'na Göre ise;
 
 Gemiden kurtulan son iki mürettabata dayandırarak olayı farklı
 anlatırlar. Gelen kurtarma ekibi gemiye yardım etmiştir ve yardım
@@ -150,9 +150,9 @@ Elçileri her ne kadar bu durumda da tarafları sakinleştirmeye çalıştıysa
 da, çabaları söz konusu eylemde dökülen kanlar sebebiyle başarısız
 olmuştur.
 
-### **Savaşın Fazları**\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=6)\]
+### Savaşın Fazları
 
-#### *302 Yılı 6-10 Ayları - Tsanor Olayları*\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=7)\]
+#### 302 Yılı 6-10 Ayları - Tsanor Olayları
 
 Tsanor'da Dromnej ve Anmas arasında savaş çıkacağı söylentileri ortaya
 çıktığı anda Tsanor Limanı'nın önde gelen aileleri bu savaşın süresince
@@ -182,7 +182,7 @@ günü oldukça kanlı bir gün sonunda Joneen Dromnej kuvvelteri tarafından
 yakalanır, yılın sonu olmadan da yine Dromnej kuvvetleri tarafından
 Liman içerisinde asılarak idam edilir.
 
-#### *303 Yılı 2-5 Ayları - Suikast Günleri*\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=8)\]
+#### 303 Yılı 2-5 Ayları - Suikast Günleri
 
 Joneen idam edildikten sonra kış ayları beklenmedik bir sessizlik ile
 geçer. Fakat bu durumun sadece fırtına öncesi sessizlik olduğu kışın
@@ -201,7 +201,7 @@ uçurmuş, bu olay sonucu Anmas yetkilisi de dahil olmak üzere bütün ev
 ahalisinin ölmüştür. Bu eylem, bir süredir gölgelerden devam eden
 çatışmaların gidişatını değiştirip yeniden açık savaşa yönlendirir.
 
-##### 303 Yılı 6.Ay - Tsanor Kuşatması\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=9)\]
+##### 303 Yılı 6.Ay - Tsanor Kuşatması
 
 Anmas'ta havaya uçan evde bütün bir ailenin ölmesiyle sonuçlanan trajik
 olaydan sonra Anmas şehri sesini yükseltir ve ayaklanır. Dromnej'e karşı
@@ -212,7 +212,7 @@ Tsanor'u ablukaya alır, arada da çıkartmalar yaparak akınlar düzenleme
 başlarlar. Ayrıca Dromnej'in gemileri Derin Sular'ın her köşesinde
 avlanmaya başlanır.
 
-#### 303 Yılı 8.Ay - Prolan Uzunkavak Köyü Çatışması\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=10)\]
+#### 303 Yılı 8.Ay - Prolan Uzunkavak Köyü Çatışması
 
 Dromnej, Anmas\'ın düzenlemiş olduğu gemi saldırılarına karşılık olarak
 [Prolan](/tr/wiki/Prolan_%C5%9Eehir_Devleti) üzerinden kara yoluyla
@@ -242,7 +242,7 @@ açığa çıkması sonrasında çatışmanın iki tarafı da Prolan'ın tepkisi
 çekinerek köyü terk eder. Prolan'ın tepkisi gayet sert olur ve Prolan'a
 gelecek olan tüm Dromnej ve Anmas askerlerini düşman ilan eder.
 
-#### 303 Yılı 9. Ay\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=11)\]
+#### 303 Yılı 9. Ay
 
 Prolan Düzlükleri'nden geçilemeyeceği için kara savaşının bittiğini uman
 Anmas, askerlerini geri çeker. Ancak sürekli gemi kaybeden Dromnej daha
@@ -255,7 +255,7 @@ Anmas'a ait tersane ve odun kesim yerlerini yakarlar. Bunun üzerine
 Anmas güçleri lojistik olarak daha da kötü duruma düşme riskinden ötürü
 işgalden bir hafta sonra geri çekilirler.
 
-#### 303 Yılı 10.Ay\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=12)\]
+#### 303 Yılı 10.Ay
 
 Baskın sonrası Anmas olağanüstü hal ilan eder. Hazinesinin kapılarını
 savaş ödeneklerine açar, Dromnej'e cevap vermek için çok sayıda paralı
@@ -275,7 +275,7 @@ Yolsonu ve Dikyürek isimli Eyter yerleşim yerleri ve çevre bölgelerin
 etrafı savaş alanlarına dönüşür. Çok sayıda masum halk çatışmalar
 arasında kalarak can verir.
 
-#### 303 Yılı 11. Ay - 304 Yılı 2.Ay Sınırsız Kan\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=13)\]
+#### 303 Yılı 11. Ay - 304 Yılı 2.Ay Sınırsız Kan
 
 Anmas savaş bölgelerine asker göndermeye devam ettikçe, Dromnej de 30
 kişiyi geçmeyen ufak birlikler ile cevaplar vermeye çalışır. Buna karşın
@@ -289,7 +289,7 @@ hizmetlerini kullanmadığı, hatta savaş tecrübesi bile belirsiz bir çok
 paralı askere kendi saflarına katılmaları adına oldukça yüksek
 meblağlarda paralar vereceğini duyurunca, olay yeni bir boyut kazanır.
 
-##### 303 Yılı 11. Ay\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=14)\]
+##### 303 Yılı 11. Ay
 
 Paralı askerler savaş alanlarına dönüşmüş olan bölgelerdeki düzensizliği
 fırsat bilerek bölgeler civarındaki çiftlikleri yağmalamaya başlarlar.
@@ -302,7 +302,7 @@ Dromnej'in tarafına geçeceğinden korktuğundan ötürü tüm güçlerini daha
 önce parasını verdiği paralı askerleri avlamaya yönlendirir. Özellikle
 Xaltis isimli bir büyücü ve ekibinin yakalanması oldukça uzun sürer.
 
-##### 303 Yılı 12. Ay\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=15)\]
+##### 303 Yılı 12. Ay
 
 Kaçakları toplayan Anmas ordusu mevsim durumuna rağmen büyük bir saldırı
 yapmaya karar verir. Gölgelik bölgesinden Demirpençe'nin güneyine doğru
@@ -312,7 +312,7 @@ girerler. Çatışma yeniden berabere bitmiştir. İki taraf da kendi
 içlerinde zafer ilan etse de, iki ordu da savaş alanından geri çekilmek
 zorunda kalır.
 
-##### 304 Yılı 2.Ay\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=16)\]
+##### 304 Yılı 2.Ay
 
 Dikyürek'e geri çekilen Anmas ordusunun bir kısmı, yerel halkın çapraz
 ateş arasında kalma korkusundan doğan tepkilerine rağmen kışı bu bölgede
@@ -337,16 +337,5 @@ kiralamış olduğu Büyücü Yeşil Tarion'un büyük büyü güçleri Dromnej
 güçlerinin geri çekilmesine sebep olur. Bu son çatışmalarda ölenlerin
 sayısının üç yüzü bulduğu bilinmektedir.
 
-Kategoriler
-
--   [Kategori](/tr/wiki/%C3%96zel:Kategoriler):
--   Kategori ekle
-
-İptal
-
-Kaydet
-
-Community content is available under
-[CC-BY-SA](https://www.fandom.com/licensing) unless otherwise noted.
 
 
