@@ -11,21 +11,14 @@
 -   [1 **Anmas - Dromnej "İkinci Tsanor" veya "Yeni Öksüzler"
     Savaşı**](#Anmas_-_Dromnej_“İkinci_Tsanor”_veya_“Yeni_Öksüzler”_Savaşı)
     -   [1.1 **Savaşın Nedenleri**](#Savaşın_Nedenleri)
-    -   [1.2 **Savaşın Çıkması - Deniz Gülü
-        Katliamı**](#Savaşın_Çıkması_-_Deniz_Gülü_Katliamı)
-        -   [1.2.1 **Anmas Krallığı'na
-            göre;**](#Anmas_Krallığı’na_göre;)
-        -   [1.2.2 **Dromnej Krallığı'na Göre
-            ise;**](#Dromnej_Krallığı’na_Göre_ise;)
+    -   [1.2 **Savaşın Çıkması - Deniz Gülü Katliamı**](#Savaşın_Çıkması_-_Deniz_Gülü_Katliamı)
+        -   [1.2.1 **Anmas Krallığı'na göre;**](#Anmas_Krallığı’na_göre;)
+        -   [1.2.2 **Dromnej Krallığı'na Göre ise;**](#Dromnej_Krallığı’na_Göre_ise;)
     -   [1.3 **Savaşın Fazları**](#Savaşın_Fazları)
-        -   [1.3.1 *302 Yılı 6-10 Ayları - Tsanor
-            Olayları*](#302_Yılı_6-10_Ayları_-_Tsanor_Olayları)
-        -   [1.3.2 *303 Yılı 2-5 Ayları - Suikast
-            Günleri*](#303_Yılı_2-5_Ayları_-_Suikast_Günleri)
-            -   [1.3.2.1 303 Yılı 6.Ay - Tsanor
-                Kuşatması](#303_Yılı_6.Ay_-_Tsanor_Kuşatması)
-        -   [1.3.3 303 Yılı 8.Ay - Prolan Uzunkavak Köyü
-            Çatışması](#303_Yılı_8.Ay_-_Prolan_Uzunkavak_Köyü_Çatışması)
+        -   [1.3.1 *302 Yılı 6-10 Ayları - Tsanor Olayları*](#302_Yılı_6-10_Ayları_-_Tsanor_Olayları)
+        -   [1.3.2 *303 Yılı 2-5 Ayları - Suikast Günleri*](#303_Yılı_2-5_Ayları_-_Suikast_Günleri)
+            -   [1.3.2.1 303 Yılı 6.Ay - Tsanor Kuşatması](#303_Yılı_6.Ay_-_Tsanor_Kuşatması)
+        -   [1.3.3 303 Yılı 8.Ay - Prolan Uzunkavak Köyü Çatışması](#303_Yılı_8.Ay_-_Prolan_Uzunkavak_Köyü_Çatışması)
         -   [1.3.4 303 Yılı 9. Ay](#303_Yılı_9._Ay)
         -   [1.3.5 303 Yılı 10.Ay](#303_Yılı_10.Ay)
         -   [1.3.6 303 Yılı 11. Ay - 304 Yılı 2.Ay Sınırsız
@@ -34,7 +27,7 @@
             -   [1.3.6.2 303 Yılı 12. Ay](#303_Yılı_12._Ay)
             -   [1.3.6.3 304 Yılı 2.Ay](#304_Yılı_2.Ay)
 
-## **Anmas - Dromnej "İkinci Tsanor" veya "Yeni Öksüzler" Savaşı**\[[](/tr/wiki/Yeni_%C3%96ks%C3%BCzler_(%C4%B0kinci_Tsanor)_Sava%C5%9F%C4%B1?veaction=edit&section=1)\]
+## **Anmas - Dromnej "İkinci Tsanor" veya "Yeni Öksüzler" Savaşı**
 
 Yeni Öksüzler savaşı ile ilgili yeterli bilgiye ulaşabilmek için
 öncelikle Birinci Tsanor savaşına dair kısa bir özet geçmek
