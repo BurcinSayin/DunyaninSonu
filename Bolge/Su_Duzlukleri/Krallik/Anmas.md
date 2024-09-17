@@ -22,8 +22,7 @@ olarak yönetirler.
 
 ## Tarihi\[[](/tr/wiki/Anmas_Krall%C4%B1%C4%9F%C4%B1?veaction=edit&section=1)\]
 
-[Sargas İmparatorluğu](/tr/wiki/Sargas_%C4%B0mparatorlu%C4%9Fu)
-döneminde bir liman olarak işleyen kasaba, Büyük Ejder Savaşı'ndan sonra
+Sargas İmparatorluğu döneminde bir liman olarak işleyen kasaba, Büyük Ejder Savaşı'ndan sonra
 oluşan otorite boşluğunda 63 yılında kendini bağımsız krallık ilan
 etmiştir. Kasabanın yöneticisi olan Reis Oberus limanın işler kalmasını
 sağlayarak ticaret çarklarının dönmesini sağlamış ve Anmas stratejik

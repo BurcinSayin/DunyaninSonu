@@ -147,9 +147,7 @@ aralarında çatışmayı bırakır ve bir mantık, taraf gözetmeden Su
 Düzlükleri Bölgesindeki hemen her yerleşkeyi yok edercesine yakarlar.
 Nüfus savaş öncesinin beşte birine kadar düşer. Bu birkaç ay süren
 katliam tüm Yelbüken\'de büyük yankı uyandırır. Bu korkunç cinayetlere
-[Kan Denizi Soykırımı](/tr/wiki/Kan_Denizi_Soyk%C4%B1r%C4%B1m%C4%B1)
-ismi verilmektedir. Sonrasında da devletler arası olan savaş sonuçsuz
-biter.
+Kan Denizi Soykırımı ismi verilmektedir. Sonrasında da devletler arası olan savaş sonuçsuz biter.
 
 Katliam sonrası neredeyse yarım yüzyıl bölge salgın hastalıklar ve
 kıtlık ile mücadele eder. Ayrıca güçsüz kalan insan yerleşkeleri goblin
