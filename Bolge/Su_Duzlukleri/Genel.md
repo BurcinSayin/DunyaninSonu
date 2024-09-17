@@ -6,10 +6,6 @@
 Yelbüken'in güneyde kalan bölgeye verilen
 genel isimdir. Sahil bölgesi hariç genellikle düz ovalardan oluşur.
 
-<figure>
-
-<figcaption><a href="/tr/wiki/Dosya:Harita-su.jpg"></a></figcaption>
-</figure>
 
 Kuzeyinde Alacaorman, güneyinde ise Derin Sular
 Denizi bulunmaktadır.
@@ -75,23 +71,16 @@ limanlarda durum bir miktar farklıdır.
 Sadakatları ve bağlılıkları daha nettir. Ancak limanlarda gemi
 sahiplerinin yönetim konusunda önemli söz hakları mevcuttur.
 
-<figure>
-
-<figcaption><a href="/tr/wiki/Dosya:Harita-su-siyasi.jpg"></a>
-<p>Siyasi harita</p></figcaption>
-</figure>
 
 ### **Önemli Devletler**
 
--   [Dromnej Krallığı](/tr/wiki/Dromnej_Krall%C4%B1%C4%9F%C4%B1)
--   [Anmas Krallığı](/tr/wiki/Anmas_Krall%C4%B1%C4%9F%C4%B1)
--   [Prolan Şehir Devleti](/tr/wiki/Prolan_%C5%9Eehir_Devleti)
--   [Releris
-    Diktatörlüğü](/tr/wiki/Releris_Diktat%C3%B6rl%C3%BC%C4%9F%C3%BC)
--   [Mepis Krallığı](/tr/wiki/Mepis_Krall%C4%B1%C4%9F%C4%B1)
--   [Göl Özgür Şehirler
-    Birliği](/tr/wiki/G%C3%B6l_%C3%96zg%C3%BCr_%C5%9Eehirler_Birli%C4%9Fi)
--   [Kralon Ticaret Cumhuriyeti](/tr/wiki/Kralon_Ticaret_Cumhuriyeti)
+-   Dromnej Krallığı
+-   Anmas Krallığı
+-   Prolan Şehir Devleti
+-   Releris Diktatörlüğü
+-   Mepis Krallığı
+-   Göl Özgür Şehirler Birliği
+-   Kralon Ticaret Cumhuriyeti
 -   Tepeler Klanlar Devleti
 
 ### Yıkılmış Devletler
@@ -147,13 +136,6 @@ alır.
 Savaşı tüm bölgeye yayılır. Tüm devletler her köyüne kadar çatışmanın
 parçası olur.
 
-<figure>
-
-<figcaption><a href="/tr/wiki/Dosya:Savas.jpg"></a>
-<p>Kanlı Göl Savaşı'nda devletlerin ordularının hemen hepsinde bir yada
-birkaç ejderha bulunmaktadır. Askerler yerde çatışırken, gökyüzünde
-ejderlerin mücadelesi olur.</p></figcaption>
-</figure>
 
 94 Yılında Kanlı Göl Savaşı\'nın 5. yılı geride kalmıştır. Devletler ile
 beraber savaşan ejderhalar büyük yıkıma neden olmak ile birlikte çok
@@ -173,26 +155,23 @@ Katliam sonrası neredeyse yarım yüzyıl bölge salgın hastalıklar ve
 kıtlık ile mücadele eder. Ayrıca güçsüz kalan insan yerleşkeleri goblin
 kabilelerinin saldırı yerleri haline gelirler.
 
-Bu dönemde [Adil Selles](/tr/wiki/Adil_Selles) isimli bir [Güneş
-Şövalyesi bölgede](/tr/wiki/G%C3%BCne%C5%9F_%C5%9E%C3%B6valyeleri)
+Bu dönemde Adil Selles isimli bir Güneş Şövalyesi bölgede
 yaptığı işler ve yeşil derilere karşı kazandığı zaferler ile ün
-kazanmaya başlar. Gadora isimli eski bir
-[Sargas](/tr/wiki/Sargas_%C4%B0mparatorlu%C4%9Fu) limanında takipçileri
+kazanmaya başlar. Gadora isimli eski bir Sargas limanında takipçileri
 ile bir şehir kurar. Çok kısa bir sürede bu şehir, gelişir. Su
 Düzlüklerindeki devletlerin birlikte çalışması için bir ortam ortaya
 çıkar. On- on beş yıl içerisinde bölgede sorun çıkartan bazı goblin
 şamanlardan, büyücülerden ve ejderhaların cesetlerinden çıkartılan
 közler şehirde toplanmaya başlar. Bu da şehri daha önemli bir buluşma
-noktası yapar. [Papaya](/tr/wiki/Papaya) bankalarının da açılmasıyla
-Gadora Yelbüken\'in açık ara en hızlı büyüyen şehri olur.
+noktası yapar. Papaya bankalarının da açılmasıyla
+Gadora Yelbüken'in açık ara en hızlı büyüyen şehri olur.
 
 Adil Selles şehir etrafında kurulan devlete korsanlara karşı
-çatışmalarda ölen bir yoldaşı anısına
-[Virihan](/tr/wiki/Virihan_Krall%C4%B1%C4%9F%C4%B1) isimi verir.
+çatışmalarda ölen bir yoldaşı anısına Virihan isimi verir.
 
 167 Yılında hiçbir neden yokken Virihan Krallığı daha yirminci yılını
 doldurmamışken beklenmedik bir saldırı yaşanır. Marganenth Ailesi ve
-onun takipçileri olan [ejdergözlerden](/tr/wiki/Ejderg%C3%B6z) oluşan
+onun takipçileri olan ejdergözlerden oluşan
 bir ordu şehri yağmalar. Saldırı ani ve beklenmedik olduğundan siviller
 dahi kaçamazlar. Deniz yoluyla kaçmaya çalışanların gemileri ise gene
 ejderler tarafından yok edilir. Bu koya Ejder Nefesi Koyu denmesinin
@@ -206,17 +185,15 @@ yavaş yavaş daha barışçıl olmak adına özgürlüklerini ilan etmeye
 başlarlar. Kralon Ticaret Cumhuriyeti, Tepe Klanları Devleti, Göl Özgür
 Şehirler Birliği devletlerinin kurulması bu yıla rastlar.
 
-201 yılına Su Düzlükleri\'nde paralı asker ejder yılı da denir. [Kötügöz
-Ayndena](/tr/wiki/K%C3%B6t%C3%BCg%C3%B6z_Ayndena) isimli bir ejderha
+201 yılına Su Düzlükleri'nde paralı asker ejder yılı da denir. Kötügöz Ayndena isimli bir ejderha
 farklı krallıkların donanmaları için para karşılığı savaşmaya başlar. Bu
 yıl farklı donanmalarda bazı ejderler gene para karşılığı savaşırlar. Bu
 gelenek birkaç yıl sonra, insan parası karşılığı savaşmaya ilk başlayan
-Ayndena\'nın zengin bir ticaret gemisine eşlik ederken yaptığı anlaşmayı
+Ayndena'nın zengin bir ticaret gemisine eşlik ederken yaptığı anlaşmayı
 bozup, gemiyi çalmasıyla son bulur. Ejderler yine denizcilerin en büyük
 düşmanı haline gelir.
 
-214 Prolan\'da [Aydınlanmışlar
-Loncası](/tr/wiki/Ayd%C4%B1nlanm%C4%B1%C5%9Flar_Loncas%C4%B1)\'nın beş
+214 Prolan'da Aydınlanmışlar Loncası'nın beş
 üyesi tarafından deniz ötesinden getirilen barut isimli patlayıcı bir
 madde denenir. Büyük bir başarı sonrası simyacılar çalışma yaptıkları
 bina ve bulundukları tüm sokağı havaya uçurular.
@@ -268,7 +245,7 @@ Bunun dışında bölge zengin tarımsal beceriye sahiptir.
 
 #### *Güney Yelbüken Ticaret Şirketi*
 
-[Anmas Krallığı](/tr/wiki/Anmas_Krall%C4%B1%C4%9F%C4%B1)'nda ticaret
+Anmas Krallığı'nda ticaret
 yapan büyük tüccarların savaşlar nedeniyle bozulan işlerini dengelemek
 amacıyla Anmas Kralı 2. Nekos'tan aldıkları imtiyazlarla birleşerek
 kurdukları şirkettir. Liman kullanımlarında düşük vergi ve diğer
@@ -276,41 +253,40 @@ krallıklar ile yapılan özle anlaşmalar ile gümrük vergisi fırsatlarından
 faydalanmak için kurulmuştur. Temel faaliyet alanları tarım ve değerli
 taşlardır.
 
-Bölge yöneticisi: [Korius Balbal](/tr/wiki/Korius_Balbal)
+Bölge yöneticisi: Korius Balbal
 
 #### *Su Düzlükleri Maden Şirketi*
 
-[Ladi Ticaret Cumhuriyeti](/tr/wiki/Ladi_Ticaret_Cumhuriyeti)'nde
+Ladi Ticaret Cumhuriyeti'nde
 merkezi bulunan Sazlık Birliği'nin Su Düzlükleri bölgesinde yaptıkları
 ticari faaliyetler için kurdukları alt şirkettir. Temel faaliyet
 alanları madenlerdir.
 
-Bölge yöneticisi: [Gerda Işıkyayan](/tr/wiki/Gerda_I%C5%9F%C4%B1kyayan)
+Bölge yöneticisi: Gerda Işıkyayan
 
 #### *Rebulan Şirketi*
 
-[Mepis Krallığı](/tr/wiki/Mepis_Krall%C4%B1%C4%9F%C4%B1) kurucu
+Mepis Krallığı kurucu
 ailelerinden olan Rebulan Ailesi'nin şirketidir. Temel faaliyet alanları
 tarım, kereste, ahşap ürünleri ve inşaattır.
 
-Bölge yöneticisi: [Ferafil Rebulan](/tr/wiki/Ferafil_Rebulan)
+Bölge yöneticisi: Ferafil Rebulan
 
 #### *Takımyıldız Ticaret Ortaklığı*
 
-[Kralon Ticaret Cumhuriyeti](/tr/wiki/Kralon_Ticaret_Cumhuriyeti)'nde
+Kralon Ticaret Cumhuriyeti'nde
 yer alan ticari ailelerden üçünün bir araya gelmesiyle kurulmuş
 şirkettir. Temel faaliyet alanları madencilik ve değerli taşlardır.
 
-Bölge yöneticisi: [Marcus Sertdiş](/tr/wiki/Marcus_Sertdi%C5%9F)
+Bölge yöneticisi: Marcus Sertdiş
 
 #### *Büyük Göl Anonim Şirketi*
 
-[Göl Özgür Şehirler
-Birliği](/tr/wiki/G%C3%B6l_%C3%96zg%C3%BCr_%C5%9Eehirler_Birli%C4%9Fi)
+Göl Özgür Şehirler Birliği
 sınırlarında kurulan şirket, birlikte yaşayan insanların kazançlarını
 birleştirerek daha büyük bir zenginlik yaratma çabalarının ürünüdür.
-Hisseleri Birlik vatandaşlarına açıktır. Birlik\'in tanıtım
+Hisseleri Birlik vatandaşlarına açıktır. Birlik'in tanıtım
 faaliyetlerini de bu şirket yürütür. Tarım, hayvancılık ve teknik
 buluşların pazarlanması temel faaliyet alanlarıdır.
 
-Bölge yöneticisi: [Lilda Nefes](/tr/wiki/Lilda_Nefes)
+Bölge yöneticisi: Lilda Nefes
